@@ -8,7 +8,7 @@ Il lavoro consiste nella codifica digitale in formato **XML-TEI (P5)** di una se
 
 Per il progetto sono stati selezionati e trascritti i seguenti testi, tratti da diverse uscite pubblicate tra il 1880 e il 1881:
 
-*   **Articolo:** *Saper leggere* (Autore: T.) - 17 aprile 1881 (Vol. 7, Fasc. 172, pp. 251-254)
+*   **Articolo:** *Saper leggere* - 17 aprile 1881 (Vol. 7, Fasc. 172, pp. 251-254)
 *   **Articolo:** *La legge sul lavoro dei fanciulli. Corrispondenza dal Veneto* - 28 novembre 1880 (Vol. 6, Fasc. 152, p. 341)
 *   **Rubrica:** *Bibliografia* - 17 ottobre 1880 (Vol. 6, Fasc. 146, pp. 253-254)
 *   **Rubrica:** *Notizie* - 11 gennaio 1880 (Vol. 5, Fasc. 106, p. 40)
