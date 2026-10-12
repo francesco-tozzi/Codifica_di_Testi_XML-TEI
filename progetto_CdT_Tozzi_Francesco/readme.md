@@ -25,7 +25,7 @@ In entrambi i casi, il markup TEI utilizzato preserva sempre la forma originale 
 di alternare tra la resa diplomatica e quella modernizzata/corretta.
 
 ## Visualizzazione
-Il risultato della codifica XML-TEI è fruibile tramite consultazione della pagina creata in formato html. In particolare, si consiglia di scaricare l'intera cartella del progetto e visualizzare il file "La_Rassegna.html".
+Il **risultato** della codifica XML-TEI è fruibile tramite consultazione della pagina creata in formato html. In particolare, si consiglia di scaricare l'intera cartella del progetto e visualizzare il file "**La_Rassegna.html**".
 
 ## Crediti
 
