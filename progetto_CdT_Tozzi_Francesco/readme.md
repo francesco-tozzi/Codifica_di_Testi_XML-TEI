@@ -27,4 +27,3 @@ di alternare tra la resa diplomatica e quella modernizzata/corretta.
 ## Crediti
 
 Codifica digitale TEI a cura di [Francesco Tozzi](https://github.com/francesco-tozzi).
-```eof
